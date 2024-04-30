@@ -1,0 +1,11 @@
+[server]
+port = 5007
+baseUrlPath = "/health/"
+runOnSave=true
+
+[browser]
+serverAddress="8.130.47.56"
+serverPort=80
+
+[theme]
+primaryColor="DeepSkyBlue"
